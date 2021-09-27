@@ -31,3 +31,8 @@ Khảo sát và thu thập thông tin từ thực tế và trang web có sẵn.
 Xây dựng kế hoạch để thực hiện và sắp xếp thời gian thực hành đồ án.
 Sử dụng tài liệu được giáo viên cung cấp làm nền tảng cho những tài liệu sau.
 
+5. Chức năng chương trình :
+- Đăng kí, Đăng nhập : Mã hoá mật khẩu
+- Chức năng mua bán hàng hoá.
+- Chức năng thêm , xoá, sửa sản phẩm.
+
