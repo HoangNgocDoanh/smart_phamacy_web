@@ -1,5 +1,6 @@
 # smart-pharmacy Smart Pharmacy - Java Maven Spring MVC 
 1. Giới thiệu đề tài
+
 Những cuộc giao dịch thương mại điện tử trên Website hiện nay là những hoạt động vô cùng phổ biến, đặc biệt là trong tình hình nhạy cảm hiện nay, chúng ta đang phải cố gắng hạn chế tiếp xúc với xã hội để kiểm soát dịch bệnh một cách hiệu quả nhất. Do đó, nhu cầu mua bán lại càng được tăng lên trong tình trạng hiện nay. 
 Ngoài ra, theo một thống kê năm 2018 của BMI Research cho thấy nhu cầu dược phẩm trong nước đang tăng nhanh trong thời gian dịch bệnh vừa qua. Và theo thống kê tỷ lệ tử vong sau Covid tại Việt Nam vừa qua có sự gia tăng, không phải nằm ở đại dịch mà nằm ở những mầm móng bệnh khác. Điều đó cho thấy khi mà nguồn cung từ những nhà thuốc địa phương bị đóng cửa, khó có thể để người dân tiếp cận được các dược phẩm hỗ trợ cho cuộc sống.
 Không những vậy, những trang thương mại điện tử nổi tiếng tuy có một lượng các sản phẩm dược bày bán nhưng một phần là nguồn cung không rõ ràng hoặc sự thiếu sót từ lời khuyên của bác sĩ về hàm lượng. Từ hai điều trên cho thấy rằng, ở Việt Nam khi mọi thứ vẫn ổn định, chúng ta không để ý nhiều đến những điều nhỏ nhặt như vậy, cho tới khi gặp một trường hợp bất ngờ như đại dịch khiến việc trao đổi trở nên khó khăn, ta mới nhận ra được sự cần thiết của những trang web giao dịch dược phẩm một cách rõ ràng và có kiểm định.
